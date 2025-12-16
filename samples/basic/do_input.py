@@ -3,3 +3,5 @@
 
 name = input()
 print('Hello,', name)
+age = input()
+print('your age is ', age)
